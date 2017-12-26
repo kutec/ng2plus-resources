@@ -1,2 +1,5 @@
-# ng2plus-resources
-List of Resources can be useful to consider for a project.
+# Angular 2+ Resources
+
+Name  | Link  | Tested with
+--- | --- | ---
+ngx-scroll-to | https://www.npmjs.com/package/@nicky-lenaers/ngx-scroll-to  | V5
